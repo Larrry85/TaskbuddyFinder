@@ -2,6 +2,7 @@
 
 A taskbuddy recommendation application, to connect kood/Sisu students based on their profile information.   
 
+![Game Screenshot](buddies.png)
 
 ## Before starting the program  
 
